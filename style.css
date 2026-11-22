@@ -8,7 +8,7 @@ header.site { display: flex; align-items: center; gap: 12px; margin-bottom: 28px
 header.site img { width: 44px; height: 44px; border-radius: 10px; }
 header.site a { color: var(--text); text-decoration: none; font-weight: 600; font-size: 19px; }
 nav { margin-left: auto; display: flex; gap: 16px; font-size: 15px; }
-nav a { color: var(--accent); text-decoration: none; }
+header.site nav a { color: var(--accent); text-decoration: none; font-weight: 400; font-size: 15px; }
 h1 { font-size: 32px; line-height: 1.2; margin: 0 0 6px; }
 h2 { font-size: 21px; margin: 32px 0 8px; }
 p, li { color: var(--text); }
